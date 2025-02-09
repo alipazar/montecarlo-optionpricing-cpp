@@ -2,5 +2,4 @@
 
 
 # Monte carlo simülasyonunu kullanan basic bir opsiyon fiyatlandırma modeli
-# Referanslar: https://www.quantstart.com/articles/European-vanilla-option-pricing-with-C-via-Monte-Carlo-methods/
-# https://www.investopedia.com/terms/b/blackscholes.asp
+# Referanslar: https://www.quantstart.com/articles/European-vanilla-option-pricing-with-C-via-Monte-Carlo-methods/ , https://www.investopedia.com/terms/b/blackscholes.asp
