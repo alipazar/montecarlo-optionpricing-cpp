@@ -1,4 +1,5 @@
-![Untitled image](https://github.com/user-attachments/assets/a1432fec-5c6a-4ab0-8136-36bd66a5b7a5)
+![Untitled image](https://github.com/user-attachments/assets/9878a8bc-3d6e-49d4-8e96-63899f63cfe4)
+
 
 
 # Monte carlo simülasyonunu kullanan basic bir opsiyon fiyatlandırma modeli
